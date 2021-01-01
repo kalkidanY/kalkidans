@@ -1,2 +1,0 @@
-# kalkidan
-todo app
